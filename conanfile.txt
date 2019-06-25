@@ -1,0 +1,9 @@
+# opencv/4.1.0@conan/stable failed on build with gtk
+[requires]
+
+
+[generators]
+cmake
+
+[options]
+
